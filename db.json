@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "First Note",
+      "content": "This is your my note."
+    },
+    {
+      "id": 2,
+      "title": "Tools",
+      "content": "This is my note."
+    },
+    {
+      "title": "Views",
+      "content": "This is a testing note",
+      "id": 3
+    },
+    {
+      "title": "Performance",
+      "content": "This is my note.",
+      "id": 4
+    },
+    {
+      "title": "Task",
+      "content": "new task",
+      "id": 5
+    },
+    {
+      "title": "Next",
+      "content": "Task",
+      "id": 7
+    },
+    {
+      "title": "Optimization",
+      "content": "Notes for Optimization",
+      "id": 8
+    }
+  ]
+}
