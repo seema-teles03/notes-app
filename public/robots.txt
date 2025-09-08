@@ -1,0 +1,11 @@
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Block development-related folders (if any)
+Disallow: /node_modules/
+Disallow: /src/
+Disallow: /public/
+
+# Point to sitemap for better SEO
+Sitemap: https://yourdomain.com/sitemap.xml
