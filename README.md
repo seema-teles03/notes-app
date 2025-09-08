@@ -2,10 +2,10 @@
 This repository contains a small React + TypeScript notes application.
 
 ## Features
-- Display notes in a responsive grid
+- Displayed notes in a responsive grid
 - Create, edit, delete notes via API calls
 - Search/filter notes by title/content
-- Optimistic updates using React Query
+- Optimistic updates and State Management using React Query
 - Loading and error states
 - Test written for NoteCard
 
