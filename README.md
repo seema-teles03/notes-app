@@ -30,10 +30,10 @@ json-server serves data from `db.json` with standard REST endpoints at `http://l
 - Tailwind for fast, composable styling and responsive layout.
 - json-server keeps backend simple to run for review
 
-## Potential improvements
+## Improvements carried out
 - Added pagination and infinite scroll for very large note sets.
 - Extract modal into reusable component; add focus trap & a11y improvements.
-- validations added foe empty fields
+- Validations added for empty fields
 
 ## Tests
 - Run: `npm test`
